@@ -1,0 +1,20 @@
+[
+  {
+    "symbol": "AAPL",
+    "quantity": 500,
+    "tradeType": "BUY",
+    "purchaseDate": "2019-01-02"
+  },
+  {
+    "symbol": "MSFT",
+    "quantity": 100,
+    "tradeType": "BUY",
+    "purchaseDate": "2019-01-02"
+  },
+  {
+    "symbol": "GOOGL",
+    "quantity": 600,
+    "tradeType": "BUY",
+    "purchaseDate": "2019-01-02"
+  }
+]
